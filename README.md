@@ -1,7 +1,9 @@
 # Conjugate Product Graphs for Globally Optimal 2D-3D Shape Matching 
+
+Official implementation of [Conjugate Product Graphs for Globally Optimal 2D-3D Shape Matching](https://arxiv.org/pdf/2211.11589.pdf) (by Paul Roetzer, Zorah Lähner, Florian Bernard, CVPR, 2023).
+
 <img src="data/teaser.png"  width="640"></img>
 
-Implementation of [Conjugate Product Graphs for Globally Optimal 2D-3D Shape Matching](https://arxiv.org/pdf/2211.11589.pdf) (by Paul Roetzer, Zorah Lähner, Florian Bernard, CVPR, 2023).
 
 ### Installation ⚙️
 This project requires [gptoolbox](https://github.com/alecjacobson/gptoolbox) (click on link and follow instructions on how to install on your machine). 
